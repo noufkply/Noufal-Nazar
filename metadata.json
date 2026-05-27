@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Local Transit \u0026 Delivery",
+  "description": "On-demand local ride transport and courier package delivery app featuring live GPS simulation tracking, interactive maps, and card payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
